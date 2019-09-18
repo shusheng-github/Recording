@@ -2,4 +2,4 @@
 
 ------------
 
-[学无止境]
+[学无止境](https://github.com/shusheng-github/Recording/blob/master/content/first.md '学无止境')
